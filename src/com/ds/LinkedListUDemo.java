@@ -3,7 +3,7 @@ package com.ds;
 public class LinkedListUDemo {
 
 	public static void main(String[] args) {
-		LinkedListU<String> ls= new 	LinkedListU<String>();
+		LinkedListU<String> ls= new LinkedListU<String>();
 		ls.add("Hussein");
 		ls.add("Jena");
 		ls.add("laya");
